@@ -4,14 +4,15 @@
 
 🌱 I’m constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest technologies and trends in the tech industry.
 
-👀 I’m interested in working on web applications, machine learning projects, and contributing to open source software.
+👀 I’m interested in working on web applications, and contributing to open source software.
 
 💼 Currently, I am actively seeking employment opportunities to apply my skills and contribute to exciting tech projects.
 
 📫 How to reach me:
    - Email: joseph.birara@gmail.com
    - GitHub: https://github.com/joseph-birara
-   - LinkedIn: linkedin.com/in/joseph-birara
+   - LinkedIn: https://linkedin.com/in/joseph-birara
+   
 
 About Me:
 - I recently graduated with a degree in computer science, and my passion for coding and building innovative solutions continues to drive me forward. I believe in the power of technology to make a positive impact on the world and I am eager to be part of the tech community.
