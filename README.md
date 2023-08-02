@@ -9,7 +9,7 @@
 💼 Currently, I am actively seeking employment opportunities to apply my skills and contribute to exciting tech projects.
 
 📫 How to reach me:
-   - Email: joseph.birara@gmail.com
+   - Email: joseph.biraraa@gmail.com
    - GitHub: https://github.com/joseph-birara
    - LinkedIn: https://linkedin.com/in/joseph-birara
    
