@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Node.js, Tailwind, Express.js, Python**
 
-- 📫 How to reach me **joseph.biraraa@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
