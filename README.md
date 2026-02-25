@@ -51,5 +51,5 @@ I value clear interfaces, predictable behavior, and systems that can be understo
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/jbirara  
+
 Email: joseph.biraraa@gmail.com
